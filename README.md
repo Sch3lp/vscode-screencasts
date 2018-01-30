@@ -7,7 +7,7 @@ Below are the "chapters" and what you learn in them.
 
 The exercises folder is just there for your ease of working.
 
-# 1-1 Everything with the mouse
+# 1-1 • Everything with the mouse
 One by one select, copy and paste with mouse
 
 # 1-2 • Copy paste with ctrl+c and ctrl+v
