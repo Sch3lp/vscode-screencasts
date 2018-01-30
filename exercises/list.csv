@@ -1,0 +1,7 @@
+<?xml>
+<users>
+<user><id>1</id><firstname>bruce</firstname><name>wayne</name><email>iamthebatman@wayneindustries.com</email></user>
+<user><id>2</id><firstname>ed</firstname><name>nigma</name><email>riddler@questions.com</email></user>
+<user><id>3</id><firstname>selina</firstname><name>kyle</name><email>catwoman@miao.com</email></user>
+<user><id>4</id><firstname>jim</firstname><name>gordon</name><email>jgordon@ghpd.com</email></user>
+</users>
