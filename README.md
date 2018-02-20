@@ -18,8 +18,8 @@ and instead of       right click, paste:            cmd+v
 Now we will select text with                        shift+rightarrow 
 instead of using the mouse.
 
-You can switch between open files with              cmd+PageDown (right)
-and with                                            cmd+PageUp   (left)
+You can switch between open files with              cmd+option+rightarrow (right)
+and with                                            cmd+option+leftarrow   (left)
 
 # 1-4 • Option+shift+arrow selecting, cmd+c, v
 You can move your cursor 
