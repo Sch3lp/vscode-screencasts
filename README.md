@@ -1,7 +1,7 @@
-# VisualStudio Code Screencasts
+# VisualStudio Code Screencasts for Mac
 These screencasts progress you easily into using shortcuts that will get you more productive.
 
-They're currently available on this [YouTube playlist](https://www.youtube.com/watch?v=hMDuDZ0tKz4&list=PL0zW7wzhNnUgnpEA9WaWKsp28fuOZZqiL).
+They're currently available on this [YouTube playlist](https://www.youtube.com/playlist?list=PL0zW7wzhNnUicrd5CGD_YRr1Dp1dXx-G4).
 
 Below are the "chapters" and what you learn in them.
 
